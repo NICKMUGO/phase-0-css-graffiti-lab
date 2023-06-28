@@ -1,1 +1,10 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+  }
+  #wall #tag-2 {
+    background: url(https://thumbs.dreamstime.com/b/graffiti-wall-frame-arrows-street-background-28619630.jpg);
+  }
+  div#wall #tag-2{
+    background: url(https://images.unsplash.com/photo-1508162326105-bb8eac9e4630?ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Z3JhZmZpdGklMjB3YWxsfGVufDB8fDB8fHww&amp);
+  }
